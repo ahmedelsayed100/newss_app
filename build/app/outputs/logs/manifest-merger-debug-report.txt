@@ -1,0 +1,153 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\newCourses\flutterProjects\newss_app\android\app\src\main\AndroidManifest.xml:1:1-30:12
+INJECTED from F:\newCourses\flutterProjects\newss_app\android\app\src\main\AndroidManifest.xml:1:1-30:12
+INJECTED from F:\newCourses\flutterProjects\newss_app\android\app\src\main\AndroidManifest.xml:1:1-30:12
+INJECTED from F:\newCourses\flutterProjects\newss_app\android\app\src\main\AndroidManifest.xml:1:1-30:12
+MERGED from F:\newCourses\flutterProjects\newss_app\android\app\src\main\AndroidManifest.xml:1:1-30:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\mokhtar\.gradle\caches\transforms-2\files-2.1\a2358d984538fc90f58c4e714845d099\fragment-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\mokhtar\.gradle\caches\transforms-2\files-2.1\5dec24ad9119c620f2405ef14a70058a\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\mokhtar\.gradle\caches\transforms-2\files-2.1\17abdf97c7d4bcff69f46392506d1157\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\mokhtar\.gradle\caches\transforms-2\files-2.1\f429bcabce1111d20b1ecb55321e9ab7\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\mokhtar\.gradle\caches\transforms-2\files-2.1\5364ab889c54507f1a369590ee8ad1a8\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\mokhtar\.gradle\caches\transforms-2\files-2.1\8ecf7a4b0ff5d61ff60a63cb981c0574\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\mokhtar\.gradle\caches\transforms-2\files-2.1\ddea9378c2e1a79277635a525ddd4033\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\mokhtar\.gradle\caches\transforms-2\files-2.1\0b81a3e3601caeb28f39b8c8e3bceddd\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\mokhtar\.gradle\caches\transforms-2\files-2.1\0a1d67af67ac2b69c607dd1e038f8eb9\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\mokhtar\.gradle\caches\transforms-2\files-2.1\c6d6a1b9355630757063a1d88524cd3d\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\mokhtar\.gradle\caches\transforms-2\files-2.1\51e4db5b11d13a47dd79e011ec281a6d\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] C:\Users\mokhtar\.gradle\caches\transforms-2\files-2.1\5e49ea65ccf1a86f3e07ba6c2e8f9242\core-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\mokhtar\.gradle\caches\transforms-2\files-2.1\ecb0fb473bf5d8952bebf66ad0161a56\lifecycle-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\mokhtar\.gradle\caches\transforms-2\files-2.1\80acf4ced0b9cbcc5b78194938e55693\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\mokhtar\.gradle\caches\transforms-2\files-2.1\c6dce57d48fb3191524f5ccb294d9ceb\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\mokhtar\.gradle\caches\transforms-2\files-2.1\41fe674787ee8bb6d87ba7c589551294\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\mokhtar\.gradle\caches\transforms-2\files-2.1\5c7230fa5ddaf0263d7c67ecc417494a\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\mokhtar\.gradle\caches\transforms-2\files-2.1\732c7c5b6b2f087a85d0121421c38ad4\versionedparcelable-1.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\mokhtar\.gradle\caches\transforms-2\files-2.1\41c1f9d48ab94038e06bcac4515766a2\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\mokhtar\.gradle\caches\transforms-2\files-2.1\77dcc38619095a5bdde9d274bd7531c1\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\mokhtar\.gradle\caches\transforms-2\files-2.1\c40f8f9fd0ba9eb7f2f95e88cdc85112\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\mokhtar\.gradle\caches\transforms-2\files-2.1\560d11f5cb18f7996c49e7d1c622a868\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\mokhtar\.gradle\caches\transforms-2\files-2.1\423cc3776a35e9931c8544585f7838a7\print-1.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from F:\newCourses\flutterProjects\newss_app\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from F:\newCourses\flutterProjects\newss_app\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from F:\newCourses\flutterProjects\newss_app\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from F:\newCourses\flutterProjects\newss_app\android\app\src\main\AndroidManifest.xml:2:5-41
+		INJECTED from F:\newCourses\flutterProjects\newss_app\android\app\src\main\AndroidManifest.xml
+		INJECTED from F:\newCourses\flutterProjects\newss_app\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\newCourses\flutterProjects\newss_app\android\app\src\main\AndroidManifest.xml
+		ADDED from F:\newCourses\flutterProjects\newss_app\android\app\src\main\AndroidManifest.xml:1:1-30:12
+		INJECTED from F:\newCourses\flutterProjects\newss_app\android\app\src\debug\AndroidManifest.xml
+	android:versionCode
+		INJECTED from F:\newCourses\flutterProjects\newss_app\android\app\src\main\AndroidManifest.xml
+		ADDED from F:\newCourses\flutterProjects\newss_app\android\app\src\main\AndroidManifest.xml:1:1-30:12
+		INJECTED from F:\newCourses\flutterProjects\newss_app\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\newCourses\flutterProjects\newss_app\android\app\src\main\AndroidManifest.xml:1:11-69
+application
+ADDED from F:\newCourses\flutterProjects\newss_app\android\app\src\main\AndroidManifest.xml:8:5-29:19
+MERGED from [androidx.core:core:1.0.0] C:\Users\mokhtar\.gradle\caches\transforms-2\files-2.1\5e49ea65ccf1a86f3e07ba6c2e8f9242\core-1.0.0\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] C:\Users\mokhtar\.gradle\caches\transforms-2\files-2.1\5e49ea65ccf1a86f3e07ba6c2e8f9242\core-1.0.0\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\mokhtar\.gradle\caches\transforms-2\files-2.1\732c7c5b6b2f087a85d0121421c38ad4\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\mokhtar\.gradle\caches\transforms-2\files-2.1\732c7c5b6b2f087a85d0121421c38ad4\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] C:\Users\mokhtar\.gradle\caches\transforms-2\files-2.1\5e49ea65ccf1a86f3e07ba6c2e8f9242\core-1.0.0\AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from F:\newCourses\flutterProjects\newss_app\android\app\src\main\AndroidManifest.xml:10:9-33
+	android:icon
+		ADDED from F:\newCourses\flutterProjects\newss_app\android\app\src\main\AndroidManifest.xml:11:9-43
+	android:name
+		ADDED from F:\newCourses\flutterProjects\newss_app\android\app\src\main\AndroidManifest.xml:9:9-57
+activity#com.mokhtarfci550.newssapp.MainActivity
+ADDED from F:\newCourses\flutterProjects\newss_app\android\app\src\main\AndroidManifest.xml:12:9-23:20
+	android:launchMode
+		ADDED from F:\newCourses\flutterProjects\newss_app\android\app\src\main\AndroidManifest.xml:14:13-43
+	android:hardwareAccelerated
+		ADDED from F:\newCourses\flutterProjects\newss_app\android\app\src\main\AndroidManifest.xml:17:13-47
+	android:windowSoftInputMode
+		ADDED from F:\newCourses\flutterProjects\newss_app\android\app\src\main\AndroidManifest.xml:18:13-55
+	android:configChanges
+		ADDED from F:\newCourses\flutterProjects\newss_app\android\app\src\main\AndroidManifest.xml:16:13-163
+	android:theme
+		ADDED from F:\newCourses\flutterProjects\newss_app\android\app\src\main\AndroidManifest.xml:15:13-47
+	android:name
+		ADDED from F:\newCourses\flutterProjects\newss_app\android\app\src\main\AndroidManifest.xml:13:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from F:\newCourses\flutterProjects\newss_app\android\app\src\main\AndroidManifest.xml:19:13-22:29
+action#android.intent.action.MAIN
+ADDED from F:\newCourses\flutterProjects\newss_app\android\app\src\main\AndroidManifest.xml:20:17-68
+	android:name
+		ADDED from F:\newCourses\flutterProjects\newss_app\android\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\newCourses\flutterProjects\newss_app\android\app\src\main\AndroidManifest.xml:21:17-76
+	android:name
+		ADDED from F:\newCourses\flutterProjects\newss_app\android\app\src\main\AndroidManifest.xml:21:27-74
+meta-data#flutterEmbedding
+ADDED from F:\newCourses\flutterProjects\newss_app\android\app\src\main\AndroidManifest.xml:26:9-28:33
+	android:value
+		ADDED from F:\newCourses\flutterProjects\newss_app\android\app\src\main\AndroidManifest.xml:28:13-30
+	android:name
+		ADDED from F:\newCourses\flutterProjects\newss_app\android\app\src\main\AndroidManifest.xml:27:13-44
+uses-sdk
+INJECTED from F:\newCourses\flutterProjects\newss_app\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\newCourses\flutterProjects\newss_app\android\app\src\main\AndroidManifest.xml
+INJECTED from F:\newCourses\flutterProjects\newss_app\android\app\src\main\AndroidManifest.xml
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\mokhtar\.gradle\caches\transforms-2\files-2.1\a2358d984538fc90f58c4e714845d099\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\mokhtar\.gradle\caches\transforms-2\files-2.1\a2358d984538fc90f58c4e714845d099\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\mokhtar\.gradle\caches\transforms-2\files-2.1\5dec24ad9119c620f2405ef14a70058a\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\mokhtar\.gradle\caches\transforms-2\files-2.1\5dec24ad9119c620f2405ef14a70058a\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\mokhtar\.gradle\caches\transforms-2\files-2.1\17abdf97c7d4bcff69f46392506d1157\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\mokhtar\.gradle\caches\transforms-2\files-2.1\17abdf97c7d4bcff69f46392506d1157\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\mokhtar\.gradle\caches\transforms-2\files-2.1\f429bcabce1111d20b1ecb55321e9ab7\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\mokhtar\.gradle\caches\transforms-2\files-2.1\f429bcabce1111d20b1ecb55321e9ab7\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\mokhtar\.gradle\caches\transforms-2\files-2.1\5364ab889c54507f1a369590ee8ad1a8\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\mokhtar\.gradle\caches\transforms-2\files-2.1\5364ab889c54507f1a369590ee8ad1a8\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\mokhtar\.gradle\caches\transforms-2\files-2.1\8ecf7a4b0ff5d61ff60a63cb981c0574\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\mokhtar\.gradle\caches\transforms-2\files-2.1\8ecf7a4b0ff5d61ff60a63cb981c0574\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\mokhtar\.gradle\caches\transforms-2\files-2.1\ddea9378c2e1a79277635a525ddd4033\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\mokhtar\.gradle\caches\transforms-2\files-2.1\ddea9378c2e1a79277635a525ddd4033\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\mokhtar\.gradle\caches\transforms-2\files-2.1\0b81a3e3601caeb28f39b8c8e3bceddd\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\mokhtar\.gradle\caches\transforms-2\files-2.1\0b81a3e3601caeb28f39b8c8e3bceddd\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\mokhtar\.gradle\caches\transforms-2\files-2.1\0a1d67af67ac2b69c607dd1e038f8eb9\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\mokhtar\.gradle\caches\transforms-2\files-2.1\0a1d67af67ac2b69c607dd1e038f8eb9\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\mokhtar\.gradle\caches\transforms-2\files-2.1\c6d6a1b9355630757063a1d88524cd3d\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\mokhtar\.gradle\caches\transforms-2\files-2.1\c6d6a1b9355630757063a1d88524cd3d\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\mokhtar\.gradle\caches\transforms-2\files-2.1\51e4db5b11d13a47dd79e011ec281a6d\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\mokhtar\.gradle\caches\transforms-2\files-2.1\51e4db5b11d13a47dd79e011ec281a6d\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\mokhtar\.gradle\caches\transforms-2\files-2.1\5e49ea65ccf1a86f3e07ba6c2e8f9242\core-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\mokhtar\.gradle\caches\transforms-2\files-2.1\5e49ea65ccf1a86f3e07ba6c2e8f9242\core-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\mokhtar\.gradle\caches\transforms-2\files-2.1\ecb0fb473bf5d8952bebf66ad0161a56\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\mokhtar\.gradle\caches\transforms-2\files-2.1\ecb0fb473bf5d8952bebf66ad0161a56\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\mokhtar\.gradle\caches\transforms-2\files-2.1\80acf4ced0b9cbcc5b78194938e55693\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\mokhtar\.gradle\caches\transforms-2\files-2.1\80acf4ced0b9cbcc5b78194938e55693\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\mokhtar\.gradle\caches\transforms-2\files-2.1\c6dce57d48fb3191524f5ccb294d9ceb\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\mokhtar\.gradle\caches\transforms-2\files-2.1\c6dce57d48fb3191524f5ccb294d9ceb\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\mokhtar\.gradle\caches\transforms-2\files-2.1\41fe674787ee8bb6d87ba7c589551294\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\mokhtar\.gradle\caches\transforms-2\files-2.1\41fe674787ee8bb6d87ba7c589551294\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\mokhtar\.gradle\caches\transforms-2\files-2.1\5c7230fa5ddaf0263d7c67ecc417494a\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\mokhtar\.gradle\caches\transforms-2\files-2.1\5c7230fa5ddaf0263d7c67ecc417494a\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\mokhtar\.gradle\caches\transforms-2\files-2.1\732c7c5b6b2f087a85d0121421c38ad4\versionedparcelable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\mokhtar\.gradle\caches\transforms-2\files-2.1\732c7c5b6b2f087a85d0121421c38ad4\versionedparcelable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\mokhtar\.gradle\caches\transforms-2\files-2.1\41c1f9d48ab94038e06bcac4515766a2\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\mokhtar\.gradle\caches\transforms-2\files-2.1\41c1f9d48ab94038e06bcac4515766a2\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\mokhtar\.gradle\caches\transforms-2\files-2.1\77dcc38619095a5bdde9d274bd7531c1\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\mokhtar\.gradle\caches\transforms-2\files-2.1\77dcc38619095a5bdde9d274bd7531c1\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\mokhtar\.gradle\caches\transforms-2\files-2.1\c40f8f9fd0ba9eb7f2f95e88cdc85112\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\mokhtar\.gradle\caches\transforms-2\files-2.1\c40f8f9fd0ba9eb7f2f95e88cdc85112\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\mokhtar\.gradle\caches\transforms-2\files-2.1\560d11f5cb18f7996c49e7d1c622a868\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\mokhtar\.gradle\caches\transforms-2\files-2.1\560d11f5cb18f7996c49e7d1c622a868\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\mokhtar\.gradle\caches\transforms-2\files-2.1\423cc3776a35e9931c8544585f7838a7\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\mokhtar\.gradle\caches\transforms-2\files-2.1\423cc3776a35e9931c8544585f7838a7\print-1.0.0\AndroidManifest.xml:20:5-44
+INJECTED from F:\newCourses\flutterProjects\newss_app\android\app\src\debug\AndroidManifest.xml
+INJECTED from F:\newCourses\flutterProjects\newss_app\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from F:\newCourses\flutterProjects\newss_app\android\app\src\main\AndroidManifest.xml
+		INJECTED from F:\newCourses\flutterProjects\newss_app\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\newCourses\flutterProjects\newss_app\android\app\src\main\AndroidManifest.xml
+		INJECTED from F:\newCourses\flutterProjects\newss_app\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from F:\newCourses\flutterProjects\newss_app\android\app\src\debug\AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from F:\newCourses\flutterProjects\newss_app\android\app\src\debug\AndroidManifest.xml:6:22-64
