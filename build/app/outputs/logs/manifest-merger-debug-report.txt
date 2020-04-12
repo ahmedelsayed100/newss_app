@@ -5,6 +5,9 @@ INJECTED from F:\newCourses\flutterProjects\newss_app\android\app\src\main\Andro
 INJECTED from F:\newCourses\flutterProjects\newss_app\android\app\src\main\AndroidManifest.xml:1:1-30:12
 INJECTED from F:\newCourses\flutterProjects\newss_app\android\app\src\main\AndroidManifest.xml:1:1-30:12
 MERGED from F:\newCourses\flutterProjects\newss_app\android\app\src\main\AndroidManifest.xml:1:1-30:12
+MERGED from [:shared_preferences] F:\newCourses\flutterProjects\newss_app\build\shared_preferences\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:shared_preferences_web] F:\newCourses\flutterProjects\newss_app\build\shared_preferences_web\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:shared_preferences_macos] F:\newCourses\flutterProjects\newss_app\build\shared_preferences_macos\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\mokhtar\.gradle\caches\transforms-2\files-2.1\a2358d984538fc90f58c4e714845d099\fragment-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\mokhtar\.gradle\caches\transforms-2\files-2.1\5dec24ad9119c620f2405ef14a70058a\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\mokhtar\.gradle\caches\transforms-2\files-2.1\17abdf97c7d4bcff69f46392506d1157\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
@@ -93,6 +96,12 @@ uses-sdk
 INJECTED from F:\newCourses\flutterProjects\newss_app\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from F:\newCourses\flutterProjects\newss_app\android\app\src\main\AndroidManifest.xml
 INJECTED from F:\newCourses\flutterProjects\newss_app\android\app\src\main\AndroidManifest.xml
+MERGED from [:shared_preferences] F:\newCourses\flutterProjects\newss_app\build\shared_preferences\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] F:\newCourses\flutterProjects\newss_app\build\shared_preferences\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_web] F:\newCourses\flutterProjects\newss_app\build\shared_preferences_web\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_web] F:\newCourses\flutterProjects\newss_app\build\shared_preferences_web\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_macos] F:\newCourses\flutterProjects\newss_app\build\shared_preferences_macos\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_macos] F:\newCourses\flutterProjects\newss_app\build\shared_preferences_macos\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
 MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\mokhtar\.gradle\caches\transforms-2\files-2.1\a2358d984538fc90f58c4e714845d099\fragment-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\mokhtar\.gradle\caches\transforms-2\files-2.1\a2358d984538fc90f58c4e714845d099\fragment-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\mokhtar\.gradle\caches\transforms-2\files-2.1\5dec24ad9119c620f2405ef14a70058a\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
