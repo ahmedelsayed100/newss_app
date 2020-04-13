@@ -11,6 +11,8 @@ class Home extends StatefulWidget {
   _HomeState createState() => _HomeState();
 }
 
+enum dropDownItem { About, Help, Settings, Contacts }
+
 class _HomeState extends State<Home> with SingleTickerProviderStateMixin {
   TabController _tabController;
   // Widget _widget;
@@ -20,11 +22,13 @@ class _HomeState extends State<Home> with SingleTickerProviderStateMixin {
     // this is for detect the number of tabs
     _tabController = TabController(initialIndex: 0, length: 3, vsync: this);
   }
-@override
+
+  @override
   void dispose() {
-        _tabController.dispose();
+    _tabController.dispose();
     super.dispose();
   }
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -36,10 +40,7 @@ class _HomeState extends State<Home> with SingleTickerProviderStateMixin {
             icon: Icon(Icons.search),
             onPressed: () {},
           ),
-          IconButton(
-            icon: Icon(Icons.more_vert),
-            onPressed: () {},
-          ),
+          _dropDownMenu(),
         ],
         bottom: TabBar(
           tabs: <Widget>[
@@ -66,5 +67,28 @@ class _HomeState extends State<Home> with SingleTickerProviderStateMixin {
       ),
       drawer: NavigationDrawer(),
     );
+  }
+
+  Widget _dropDownMenu() {
+    return PopupMenuButton<dropDownItem>(itemBuilder: (context) {
+      return [
+        PopupMenuItem(
+          child: Text("About"),
+          value: dropDownItem.About,
+        ),
+        PopupMenuItem(
+          child: Text("Help"),
+          value: dropDownItem.Help,
+        ),
+        PopupMenuItem(
+          child: Text("Contact"),
+          value: dropDownItem.Contacts,
+        ),
+        PopupMenuItem(
+          child: Text("Settings"),
+          value: dropDownItem.Settings,
+        ),
+      ];
+    });
   }
 }
