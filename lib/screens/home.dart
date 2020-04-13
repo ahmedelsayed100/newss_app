@@ -1,8 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:newssapp/models/navigation_drawer.dart';
-import 'package:newssapp/screens/favoirt.dart';
-import 'package:newssapp/screens/popular.dart';
-import 'package:newssapp/screens/whats_new.dart';
+
+import 'package:newssapp/screens/tab_screens/favoirt.dart';
+
+import 'tab_screens/popular.dart';
+import 'tab_screens/whats_new.dart';
 
 class Home extends StatefulWidget {
   @override
@@ -16,9 +18,13 @@ class _HomeState extends State<Home> with SingleTickerProviderStateMixin {
   void initState() {
     super.initState();
     // this is for detect the number of tabs
-    _tabController = TabController(length: 3, vsync: this);
+    _tabController = TabController(initialIndex: 0, length: 3, vsync: this);
   }
-
+@override
+  void dispose() {
+        _tabController.dispose();
+    super.dispose();
+  }
   @override
   Widget build(BuildContext context) {
     return Scaffold(
