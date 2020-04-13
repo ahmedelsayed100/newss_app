@@ -2,6 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:newssapp/models/navigator_items.dart';
 import 'package:newssapp/screens/headlines.dart';
 import 'package:newssapp/screens/home.dart';
+import 'package:newssapp/screens/social_feed/facebok.dart';
+import 'package:newssapp/screens/social_feed/instgram.dart';
 import 'package:newssapp/screens/social_feed/twitter_feed.dart';
 
 class NavigationDrawer extends StatefulWidget {
@@ -12,7 +14,9 @@ class NavigationDrawer extends StatefulWidget {
 List<NavigatorItems> _items = [
   NavigatorItems("Explore", Home()),
   NavigatorItems("HeadLines News", HeadLineNews()),
-  NavigatorItems("Twitter Feed", TwitterFeed()),
+  NavigatorItems("Twitter Feeds", TwitterFeed()),
+  NavigatorItems("Instgram Feeds", Instgram()),
+  NavigatorItems("FaceBook Feeds", FaceBook()),
 ];
 
 // List<String> _titles = [
